@@ -1,0 +1,255 @@
+{
+  "Header": {
+    "title": "Power Your Operations with Precision Engineering",
+    "paragraph": "From 2-ton pallet stackers to 10-ton telehandlers, we deliver hydraulic solutions that drive India's industries forward."
+  },
+  "About": {
+    "paragraph": "GAD Hydraulics is a leading manufacturer and supplier of material handling equipment and hydraulic solutions based in Udaipur, Rajasthan. With over a decade of experience in the industry, we've become a trusted partner for businesses across India seeking reliable, high-performance hydraulic systems. Our state-of-the-art workshop spans 15,000 square feet and houses advanced manufacturing equipment, testing facilities, and a dedicated R&D unit.",
+    "Why": [
+      "In-House Engineering Excellence",
+      "Comprehensive AMC Support",
+      "Pan-India Delivery Network",
+      "Custom Hydraulic Solutions"
+    ],
+    "Why2": [
+      "ISO 9001:2015 Certified Quality",
+      "10+ Years Industry Experience",
+      "24-48 Hour Service Response",
+      "1000+ Satisfied Customers"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Semi-Electric Forklift 2T",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Hydraulic Forklift 5T",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Telehandler 10T",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Pallet Stacker Operations",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Hydraulic Cylinder Assembly",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Workshop Manufacturing",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Forklift Fleet Service",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Telehandler Construction Site",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Hydraulic Components Range",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Products": [
+    {
+      "icon": "fa fa-cube",
+      "name": "Hydraulic Components",
+      "category": "Components",
+      "image": "img/products/hydraulic-components.jpg",
+      "description": "Premium-grade hydraulic cylinders, pumps, valves, hoses, and filters. Custom bore sizes, pressure ratings up to 350 bar, and energy-efficient designs.",
+      "specifications": {
+        "range": "Cylinders, Pumps, Valves, Hoses, Filters",
+        "pressure": "Up to 350 bar",
+        "customization": "Available"
+      },
+      "cta": "Request Pricing"
+    },
+    {
+      "icon": "fa fa-battery-half",
+      "name": "Semi-Electric Forklifts",
+      "category": "Forklifts",
+      "image": "img/products/semi-electric-forklift.jpg",
+      "description": "Energy-efficient 2-ton capacity with 3-meter lift height. Battery-operated lifting with manual operation. Perfect for warehouses and indoor applications.",
+      "specifications": {
+        "capacity": "2000 kg (2 tons)",
+        "liftHeight": "3000 mm (3 meters)",
+        "power": "12V/24V DC Battery",
+        "runtime": "4-6 hours per charge"
+      },
+      "cta": "Request a Quote"
+    },
+    {
+      "icon": "fa fa-truck",
+      "name": "Forklifts (2-10T)",
+      "category": "Forklifts",
+      "image": "img/products/forklift-range.jpg",
+      "description": "Heavy-duty forklifts built for reliability. Available in 2T, 3T, 5T, and 10T capacities. Diesel and LPG options with comprehensive safety features.",
+      "specifications": {
+        "capacityRange": "2 tons to 10 tons",
+        "liftHeight": "3-6 meters",
+        "fuelOptions": "Diesel / LPG",
+        "models": "2T, 3T, 5T, 10T"
+      },
+      "cta": "Enquire Now"
+    },
+    {
+      "icon": "fa fa-arrows",
+      "name": "Telehandlers (2-10T)",
+      "category": "Material Handling",
+      "image": "img/products/telehandler.jpg",
+      "description": "Versatile telescopic handlers with 6-12 meter reach. Ideal for construction, agriculture, and industrial yards. 4WD options available.",
+      "specifications": {
+        "capacityRange": "2 tons to 10 tons",
+        "reach": "6-12 meters",
+        "liftHeight": "Up to 14 meters",
+        "features": "4WD, Stabilizers, 360° Visibility"
+      },
+      "cta": "Get a Quote"
+    },
+    {
+      "icon": "fa fa-level-up",
+      "name": "Pallet Stackers (2T, 3m)",
+      "category": "Material Handling",
+      "image": "img/products/pallet-stacker.jpg",
+      "description": "Compact manual and semi-electric pallet stackers. 2-ton capacity with 3-meter lift. Perfect for narrow aisles and small warehouses.",
+      "specifications": {
+        "capacity": "1000-2000 kg",
+        "liftHeight": "1600-3000 mm",
+        "types": "Manual & Semi-Electric",
+        "forkLength": "1150 mm"
+      },
+      "cta": "Request Pricing"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wrench",
+      "name": "Annual Maintenance Contracts",
+      "text": "Keep your entire fleet operating at peak performance with our comprehensive AMC plans. Scheduled preventive maintenance, priority service calls, and 20% discount on spare parts included."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "On-Site Repair & Diagnostics",
+      "text": "Emergency breakdown response within 24-48 hours anywhere in India. Our mobile service units handle hydraulic system diagnostics, electrical troubleshooting, and component replacement."
+    },
+    {
+      "icon": "fa fa-recycle",
+      "name": "Hydraulic Refurbishing",
+      "text": "Extend equipment life with professional refurbishing services. Cost savings up to 70% vs new replacement, with like-new performance and 6-month warranty on refurbished components."
+    },
+    {
+      "icon": "fa fa-gears",
+      "name": "Custom Fabrication",
+      "text": "Our engineering team designs and builds custom hydraulic systems for specialized applications including custom hydraulic power units, specialized lifting attachments, and custom cylinder designs."
+    },
+    {
+      "icon": "fa fa-truck",
+      "name": "Pan-India Delivery",
+      "text": "From our Udaipur facility, we serve clients across India with reliable logistics and timely delivery. Full fleet tracking and secure transportation for all equipment."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "name": "Operator Training Programs",
+      "text": "Comprehensive training programs for forklift, telehandler, and pallet stacker operators. Safety certification, best practices, and hands-on equipment familiarization included."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"GAD Hydraulics transformed our warehouse operations. Their semi-electric forklifts reduced our energy costs by 40% while improving efficiency. The after-sales support is exceptional.\"",
+      "name": "Rajesh Mehta, Logistics Manager"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"The after-sales service is exceptional. When our 5-ton forklift needed repairs, their team was on-site within 24 hours. Highly recommend their AMC contracts.\"",
+      "name": "Priya Sharma, Operations Head"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"We've been using their telehandlers for three years. Zero major breakdowns, excellent ROI. The custom fabrication team solved our unique material handling challenge perfectly.\"",
+      "name": "Arun Kumar, Construction Director"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"GAD's in-house engineering expertise sets them apart. They designed a custom hydraulic solution for our manufacturing line that increased productivity by 35%.\"",
+      "name": "Vikram Singh, Plant Manager"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Reliable equipment, competitive pricing, and responsive service. Their pallet stackers have been running flawlessly in our cold storage facility for over two years.\"",
+      "name": "Meena Patel, Warehouse Supervisor"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"From initial consultation to final delivery, the experience was seamless. The team understood our requirements and delivered exactly what we needed, on time and within budget.\"",
+      "name": "Suresh Reddy, Procurement Manager"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Amit Sharma",
+      "job": "Founder & Managing Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Deepak Verma",
+      "job": "Chief Engineer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Kavita Joshi",
+      "job": "Service Operations Manager"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Rahul Desai",
+      "job": "Sales & Business Development"
+    }
+  ],
+  "Contact": {
+    "address": "GAD Hydraulics, Industrial Area, Udaipur, Rajasthan - 313001, India",
+    "phone": "+91 294 XXX XXXX",
+    "email": "info@gadhydraulics.com",
+    "facebook": "facebook.com/gadhydraulics",
+    "twitter": "twitter.com/gadhydraulics",
+    "youtube": "youtube.com/gadhydraulics"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-cogs",
+      "title": "In-House Engineering",
+      "text": "Our team designs and manufactures custom hydraulic solutions tailored to your specific requirements. Superior quality control and faster service response."
+    },
+    {
+      "icon": "fa fa-shield",
+      "title": "Quality Assurance",
+      "text": "Every component undergoes rigorous testing before delivery. ISO certified manufacturing processes ensure consistent quality and reliability."
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "Expert Support Team",
+      "text": "Dedicated hydraulic specialists ready to help you choose the right equipment. Technical consultation, operator training, and 24/7 emergency support."
+    },
+    {
+      "icon": "fa fa-trophy",
+      "title": "Proven Track Record",
+      "text": "Over 1000 satisfied customers across India trust GAD Hydraulics. Decade-long expertise in material handling and hydraulic engineering solutions."
+    }
+  ]
+}
