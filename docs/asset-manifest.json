@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GAD-Hydrolics/static/css/main.ae42ac5f.css",
+    "main.js": "/GAD-Hydrolics/static/js/main.0e159dc3.js",
+    "index.html": "/GAD-Hydrolics/index.html",
+    "main.ae42ac5f.css.map": "/GAD-Hydrolics/static/css/main.ae42ac5f.css.map",
+    "main.0e159dc3.js.map": "/GAD-Hydrolics/static/js/main.0e159dc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.0e159dc3.js"
+  ]
+}
